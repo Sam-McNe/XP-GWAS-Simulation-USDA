@@ -54,6 +54,7 @@ The main tradeoff is:
 More accessions reduce biological sampling variance,
 but signal dilution reduces the effective allele-frequency difference.
 ```
+![Figure 1. Power to detect at least one causal SNP](figures/plot1_power_any.png)
 
 ## Computational Workflow
 
